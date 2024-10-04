@@ -1,6 +1,6 @@
 
 export default function Home() {
   return (
-    <div>Hello Ji</div>
+    <div>Hello Jija Ji</div>
   );
 }
